@@ -1,0 +1,9 @@
+{
+  "contextPath": "ui-assets-acme",
+  "availability": "MARKET",
+  "type": "HOSTED",
+  "name": "ui-assets-acme",
+  "key": "ui-assets-acme",
+  "noAppSwitcher": true,
+  "description": "Application containing static assets for UI customization"
+}

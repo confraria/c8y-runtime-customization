@@ -1,0 +1,9 @@
+{
+  "contextPath": "ui-assets-piedpipper",
+  "availability": "MARKET",
+  "type": "HOSTED",
+  "name": "ui-assets-piedpipper",
+  "key": "ui-assets-piedpipper",
+  "noAppSwitcher": true,
+  "description": "Application containing static assets for UI customization"
+}

@@ -1,0 +1,25 @@
+{
+  "brandingCssVars": {
+      "brand-logo-img-height": "40%",
+      "header-color": "red",
+      "navigator-font-family": "var(--font-family-base)",
+      "navigator-platform-logo-height": "40%",
+      "navigator-active-bg": "#11751C",
+      "brand-complementary": "gold",
+      "brand-primary": "red",
+      "brand-light": "purple",
+      "brand-dark": "#11751C",
+      "navigator-platform-logo": "url(/apps/public/ui-assets-acme/logo.svg)",
+      "brand-logo-img": "url(/apps/public/ui-assets-acme/logo.svg)"
+  },
+  "globalTitle": "Acme Corp.",
+  "faviconUrl": "/apps/public/ui-assets-acme/favicon.ico",
+  "languages": {
+    "de": null,
+    "ru": {
+      "name": "Russian",
+      "nativeName": "русский язык",
+      "url": "/apps/public/ui-assets-acme/ru.json"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "c8y-runtime-customization",
+  "version": "1.0.0",
+  "description": "Example of runtime customization for multiple tenants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Confraria",
+  "license": "ISC",
+  "dependencies": {
+    "@c8y/cli": "^1004.10.0"
+  }
+}
