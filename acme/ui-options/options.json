@@ -16,10 +16,10 @@
   "faviconUrl": "/apps/public/ui-assets-acme/favicon.ico",
   "languages": {
     "de": null,
-    "ru": {
-      "name": "Russian",
-      "nativeName": "русский язык",
-      "url": "/apps/public/ui-assets-acme/ru.json"
+    "pt": {
+      "name": "Portuguese",
+      "nativeName": "Português",
+      "url": "/apps/public/ui-assets-acme/pt.json"
     }
   }
 }
